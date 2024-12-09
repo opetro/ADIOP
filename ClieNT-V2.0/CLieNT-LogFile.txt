@@ -1,7 +1,0 @@
-[2024-12-09_13:51:54.384] - Program Started
-[2024-12-09_13:51:54.523] - Main Menu Shown
-[2024-12-09_13:51:56.101] - Port Scanner tool selected
-[2024-12-09_13:51:56.870] - No target specified. Scanning the default target "arh.bg.ac.rs"
-[2024-12-09_13:51:56.984] - Scanning Target: arh.bg.ac.rs
-[2024-12-09_13:51:56.984] - Port Range: 1-500
-[2024-12-09_13:51:59.408] - Open port is found on 22 : SSH-2.0-OpenSSH_7.4
