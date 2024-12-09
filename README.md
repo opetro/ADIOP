@@ -25,10 +25,10 @@ Then the program runs on its own until it returns a result.
 Thank you very much for using our software!Improvements coming in future versions!
 
 Thanksgiving to:
-	Donatos Angelos Bazoras
-		Ioannis Marios Tsiakoulias
-			Angelos Mitro
-				Oresti Petro
-					Panagiotis Sklavounos
+Donatos Angelos Bazoras
+Ioannis Marios Tsiakoulias
+Angelos Mitro
+Oresti Petro
+Panagiotis Sklavounos
 
 NOTICE!! Any sections of the code used without owner's permission or reference will be prosecuted according to the law! NOTICE!!
